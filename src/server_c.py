@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+"""
+Document me!
+"""
+
 import os
 import re
 import sys
